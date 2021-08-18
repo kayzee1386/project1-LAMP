@@ -18,6 +18,7 @@ MYSQL Installation
 ```
 PHP installation
 ```
+![PHP-instal](https://user-images.githubusercontent.com/46185705/129882618-95c08251-5862-4eec-87a5-9c99d9daeb50.jpg)
 ![PHP](https://user-images.githubusercontent.com/46185705/129881667-d3d479e0-8170-4455-960d-deacff2f5ba2.jpg)
 
 ```
